@@ -1,0 +1,16 @@
+use db_RecursosHumanos;
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Ana","Dev Java Jr.",27,"597.336.951-12",2000.00);
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Lucas","Biólogo",27,"597.336.951-12",2000.00);
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Luis","Professor",40,"321.456.987-99",15000.00);
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Marcelo","Cantor",30,"578.951.159-34",1000.00);
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Felipe","Vendedor",35,"369.258.147-47",1500.00);
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Leandro","Product Owner.",44,"234.567.812-48",20000.00);
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Eliane","Bancária",42,"258.943.481-63",10000.00);
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Amanda","Assistente Adm",20,"569.753.137-78",1000.00);
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Fernando","Comprador",25,"396.854.173-54",3000.00);
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Natália","SCRUM Master",35,"259.246.237-77",10000.00);
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Paula","Analista Java Jr.",24,"456.973.158-81",1800.00);
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Luana","DEV Java PL",29,"569.153.555-77",3500.00);
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Evelin","Contadora",35,"354.788.145-95",1000.00);
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Beatriz","Analista Qualidade",28,"264.788.111-21",2000.00);
+insert into tb_cadastrofuncionarios (Nome, Cargo, Idade, CPF, Salario) values ("Gabriela","Cozinheira",25,"567.122.333-44",1500.00);

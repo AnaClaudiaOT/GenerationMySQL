@@ -1,0 +1,16 @@
+use ecommerce;
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Celulares","A20","Samsung",849.99, "Magazine Luiza");
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Celulares","Note 8","Xiaomi",950.00, "Amazon");
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Eletrodoméstico","Fogão","Electrolux",999.89, "Casas Bahia");
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Eletrodoméstico","Geladeira","Brastemp",999.99, "Casas Bahia");
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Eletrodoméstico","Micro-Ondas","Electrolux",399.99, "Casas Bahia");
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Cama, Mesa e Banho","Edredon","Jolitex",199.99, "Americanas");
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Cama, Mesa e Banho","Travesseiro","Felicita",69.99, "Americanas");
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Games","The Last of US","PS4",249.99, "Magazine Luiza");
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Games","Call of Duty","PS4",49.99, "Amazon");
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Games","Controle","Sony",299.99, "Amazon");
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Eletroportáteis","Cafeteira","Nespresso",365.00, "Magazine Luiza");
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Eletroportáteis","Panela Elétrica","Electrolux", 529.00, "Extra");
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Eletroportáteis","Fritadeira Elétrica","Nell", 289.00, "Extra");
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Pet Shop","Casinha","Cerejeira",195.89,"Extra");
+insert into produtos (tipo, nome, marca, preço, fornecedor) values ("Pet Shop","Cama","Petz",89.99,"Magazine Luiza");
