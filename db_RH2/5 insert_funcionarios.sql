@@ -1,0 +1,16 @@
+use db_RH2;
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("Ana","98765",25,"456.789.123-71",3200.00,1);
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("Paula","98123",26,"456.789.123-21",1200.00,2);
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("Leticia","98298",27,"456.789.123-70",8000.00,3);
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("Paulo","98312",28,"456.789.123-73",3200.00,4);
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("José","96352",29,"456.789.123-72",1790.00,5);
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("Thiago","98514",30,"456.789.123-74",1500.00,2);
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("Marcelo","93176",31,"456.789.123-75",7100.00,3);
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("Lucas","98145",32,"456.789.123-77",3000.00,1);
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("Luis","98761",33,"456.789.123-78",3500.00,4);
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("Sônia","98762",26,"456.789.123-79",1950.00,5);
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("Eliane","98763",28,"456.789.123-80",3000.00,4);
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("Amanda","98764",21,"456.789.123-81",1800.00,5);
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("Jessica","98766",22,"456.789.123-82",2000.00,1);
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("Natália","98767",23,"456.789.123-83",1500.00,2);
+insert into tb_funcionarios (nome, matricula, idade, CPF, salario, cargo_id) values ("Luana","98768",24,"456.789.123-89",5000.00,3);
