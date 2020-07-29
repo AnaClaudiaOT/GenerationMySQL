@@ -1,2 +1,2 @@
 # MySQL
-Atividades de MySQL desenvolvidos no curso Generation
+Atividades de MySQL desenvolvidos no curso Generation.
